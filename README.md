@@ -19,5 +19,11 @@
 * Master's in business administration at MG university India (2019)
 * Bachelor's in Science specialized in Mathematics at MG university India (2017)
 
-### Header 3
+## Certifications
+*	Diploma in Computer based Mathematical Statistics (Advanced theory on mathematical statistics) - MG University 
+*	Microsoft Excel, Word and PowerPoint Certification 
+*	Data Science - Udemy 
+*	Python for Data Science and Machine Learning bootcamp (Udemy) 
+*	Automate the boring stuff with Python programming (Udemy)
+
 
