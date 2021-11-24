@@ -28,7 +28,7 @@
 
 ## Work Experience
 
-## Business Development Manager, IndusInd Bank -                                ( 2019 – 2020)
+## Business Development Manager, IndusInd Bank                                 ( 2019 – 2020)
 *	Managed and maintained healthy relationships with existing and new clients.
 *	Identified key products, services and customers and used acquired data to devise innovative sales and marketing plans.
 *	Reached out to potential customers via telephone, email and in person inquiries.
@@ -37,6 +37,11 @@
 *	Managed and retained the exciting customer base
 *	Maintained a high customer service and satisfaction
 *	Performed cold calls to generate business leads
+
+##Intern Trainee, Bharti Airtel                                                     (2018)
+*	Successfully completed a project on “Analysis on The Tower Rental Expense and Corrective actions for Reduction of Rental Expense”.
+
+
 
 
 
