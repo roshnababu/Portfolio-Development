@@ -33,5 +33,11 @@
 *	Identified key products, services and customers and used acquired data to devise innovative sales and marketing plans.
 *	Reached out to potential customers via telephone, email and in person inquiries.
 
+## Sr. Business Development Executive, Extra marks Education India Pvt. Ltd.        (2020)
+*	Managed and retained the exciting customer base
+*	Maintained a high customer service and satisfaction
+*	Performed cold calls to generate business leads
+
+
 
 
