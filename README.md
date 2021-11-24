@@ -5,6 +5,15 @@
 * mailid: meetroshnababu@gmail.com
 * Ph no: 4379743379
 
+## Intrests and Skills
+•	One years of experience as a Business Development Manager.
+•	Generated valuable business opportunities to improve revenue and to boost bottom-line profit.
+•	Expertise in data storage structures, data mining and data cleansing.
+•	Expert in Microsoft Office.
+•	Excellent presentation skills utilizing Tableau, Power Bi and MS PowerPoint.
+•	Expertise in mathematics and Statistics.
+•	Experienced with Python, R studio and SQL.
+
 ## Education
 * Data analytics for business decision making at Durham college (2021)
 * Master's in business administration at MG university India (2019)
