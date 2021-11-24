@@ -1,6 +1,6 @@
 ## Roshna's Portfolio
 
-#Contact Info
+## Contact Info
 * name: Roshna babu
 * mailid: meetroshnababu@gmail.com
 * Ph no: 4379743379
