@@ -26,9 +26,11 @@
 *	Python for Data Science and Machine Learning bootcamp (Udemy) 
 *	Automate the boring stuff with Python programming (Udemy)
 
-## Work Experience
+# [Work Experience](https://roshnababu.github.io/Portfolio-Development/)
 
-## Business Development Manager, IndusInd Bank                                 ( 2019 – 2020)
+## Business Development Manager, IndusInd Bank                                 ( 2019 – 2020) @settings {
+  font-size: 100;
+}
 *	Managed and maintained healthy relationships with existing and new clients.
 *	Identified key products, services and customers and used acquired data to devise innovative sales and marketing plans.
 *	Reached out to potential customers via telephone, email and in person inquiries.
